@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1c4da7ea-4e28-4c8f-8f6d-f57b102bdead" name="Default Changelist" comment=".">
+    <list default="true" id="1c4da7ea-4e28-4c8f-8f6d-f57b102bdead" name="Default Changelist" comment="add axios">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.github-cards-app.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.github-cards-app.dir/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Form.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Form.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -13,8 +14,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/package-lock.json" root0="SKIP_HIGHLIGHTING" />
+  </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
+      <option value="$PROJECT_DIR$/src/App.jsx" />
       <option value="$PROJECT_DIR$/src/Form.jsx" />
     </changedPaths>
   </component>
@@ -39,7 +44,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1624316972204</updated>
-      <workItem from="1624316980146" duration="960000" />
+      <workItem from="1624316980146" duration="2299000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <created>1624317066606</created>
@@ -69,7 +74,21 @@
       <option name="project" value="LOCAL" />
       <updated>1624317198154</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="form is a controlled component.">
+      <created>1624318118623</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1624318118623</updated>
+    </task>
+    <task id="LOCAL-00006" summary="add axios">
+      <created>1624318241039</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1624318241039</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -91,6 +110,8 @@
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="." />
-    <option name="LAST_COMMIT_MESSAGE" value="." />
+    <MESSAGE value="form is a controlled component." />
+    <MESSAGE value="add axios" />
+    <option name="LAST_COMMIT_MESSAGE" value="add axios" />
   </component>
 </project>
