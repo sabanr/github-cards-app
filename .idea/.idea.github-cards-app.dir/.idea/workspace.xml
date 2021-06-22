@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1c4da7ea-4e28-4c8f-8f6d-f57b102bdead" name="Default Changelist" comment="add github user reactively">
+    <list default="true" id="1c4da7ea-4e28-4c8f-8f6d-f57b102bdead" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.github-cards-app.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.github-cards-app.dir/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CardList.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/CardList.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Form.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Form.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,8 +27,9 @@
   </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
-      <option value="$PROJECT_DIR$/src/Form.jsx" />
       <option value="$PROJECT_DIR$/src/App.jsx" />
+      <option value="$PROJECT_DIR$/src/Form.jsx" />
+      <option value="$PROJECT_DIR$/src/CardList.jsx" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1uHKF1FqoFp0NvSuPspM1m2xBaH" />
@@ -50,7 +53,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1624316972204</updated>
-      <workItem from="1624316980146" duration="3692000" />
+      <workItem from="1624316980146" duration="4699000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <created>1624317066606</created>
@@ -101,7 +104,14 @@
       <option name="project" value="LOCAL" />
       <updated>1624319675500</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="no longer use test data">
+      <created>1624328955337</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1624328955337</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -126,6 +136,7 @@
     <MESSAGE value="form is a controlled component." />
     <MESSAGE value="add axios" />
     <MESSAGE value="add github user reactively" />
-    <option name="LAST_COMMIT_MESSAGE" value="add github user reactively" />
+    <MESSAGE value="no longer use test data" />
+    <option name="LAST_COMMIT_MESSAGE" value="no longer use test data" />
   </component>
 </project>
