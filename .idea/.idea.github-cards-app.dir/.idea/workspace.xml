@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1c4da7ea-4e28-4c8f-8f6d-f57b102bdead" name="Default Changelist" comment="add axios">
+    <list default="true" id="1c4da7ea-4e28-4c8f-8f6d-f57b102bdead" name="Default Changelist" comment="add github user reactively">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.github-cards-app.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.github-cards-app.dir/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Form.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Form.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,13 +12,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/package-lock.json" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
-      <option value="$PROJECT_DIR$/src/App.jsx" />
       <option value="$PROJECT_DIR$/src/Form.jsx" />
+      <option value="$PROJECT_DIR$/src/App.jsx" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1uHKF1FqoFp0NvSuPspM1m2xBaH" />
@@ -44,7 +50,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1624316972204</updated>
-      <workItem from="1624316980146" duration="2299000" />
+      <workItem from="1624316980146" duration="3692000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <created>1624317066606</created>
@@ -88,7 +94,14 @@
       <option name="project" value="LOCAL" />
       <updated>1624318241039</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="add github user reactively">
+      <created>1624319675500</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1624319675500</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -112,6 +125,7 @@
     <MESSAGE value="." />
     <MESSAGE value="form is a controlled component." />
     <MESSAGE value="add axios" />
-    <option name="LAST_COMMIT_MESSAGE" value="add axios" />
+    <MESSAGE value="add github user reactively" />
+    <option name="LAST_COMMIT_MESSAGE" value="add github user reactively" />
   </component>
 </project>
